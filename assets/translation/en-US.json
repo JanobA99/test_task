@@ -1,0 +1,9 @@
+{
+  "lorem_ipsum": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque, vestibulum sollicitudin amet, justo ac at nulla. Ullamcorper nisi, ac condimentum erat. Amet elit quis sed nisl auctor lacus, amet ut. Dictum commodo ut vel dignissim leo fermentum sagittis, pellentesque. Sed felis sagittis risus tellus pharetra massa est.",
+  "connection_is_afk": "Connection is AFK",
+  "no_connection_body": "No internet connection check your internet connection and try again.",
+  "retry": "Retry",
+  "submit": "Submit",
+  "network_error": "No Internet",
+  "unknown_error": "Something went wrong",
+}
